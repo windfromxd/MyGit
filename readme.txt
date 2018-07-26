@@ -1,2 +1,3 @@
 this is my git for test
-hello 
+hello
+git is fun 
